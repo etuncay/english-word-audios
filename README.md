@@ -1,2 +1,1 @@
-# english-word-voiceover
-english word voiceover
+37000 den fazla ingilizce kelimelerin ses dosyası
